@@ -1,24 +1,22 @@
 # front
 
-## Project setup
+## Instalar Dependencias
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Compilar e executar em modo desenvolvimento
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Compilar para produção
 ```
 npm run build
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
+### Acessar a aplicação
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+```
+http://localhost:8080/
+```
